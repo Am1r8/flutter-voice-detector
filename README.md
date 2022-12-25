@@ -1,16 +1,24 @@
-# voice
+# Voice Detector
 
-A new Flutter project.
+A voice to text app built with Flutter that accurately detects and transcribes any language and accent.
+
+## Features
+
+- Accurate voice recognition using advanced machine learning models
+- Support for multiple languages and accents
+- Easy to use interface with a simple tap to start recording
+- Text transcription displayed in real-time as you speak
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+To get started with Voice Detector, you will need to have Flutter installed on your machine. You can find instructions on how to install Flutter on the [Flutter website](https://flutter.dev/docs/get-started/install).
 
-A few resources to get you started if this is your first Flutter project:
+Once you have Flutter set up, you can clone this repository and run the following command to run the app on your device:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+flutter run
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Disclaimer
+
+This app is provided as is and is intended for personal use only. Use at your own risk.
+
+Created By AlPHA With ❤️
